@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <description name="Unofficial update site for the GTED Eclipse plugin" url="https://github.com/nmusatti/gted-update-site/">
+      The GTED Eclipse plugin is an editor for GNU gettext internalization files. This update site is provided as a hopefully temporary substitute for the official www.gted.org site, which has been unavailable for quite some time.
+   </description>
+   <feature url="features/net.sf.gted.feature_1.8.0.jar" id="net.sf.gted.feature" version="1.8.0">
+      <category name="gted"/>
+   </feature>
+   <category-def name="gted" label="GTED GNU gettext editor plugin">
+      <description>
+         The GTED Eclipse plugin is an editor for GNU gettext internalization files.
+      </description>
+   </category-def>
+</site>
